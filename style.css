@@ -103,4 +103,10 @@ table {
 
 #volunteer-table {
 	float: left;
-	width: 50%; 
+	width: 50%;
+} 
+
+a:link {color: navy; }
+a:visited { color: white; } 
+a:hover   { color: black; } 
+a:active  { color: red; } 
